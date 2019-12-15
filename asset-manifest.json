@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/imotel/static/css/main.462b0bd9.chunk.css",
-    "main.js": "/imotel/static/js/main.26312ceb.chunk.js",
-    "main.js.map": "/imotel/static/js/main.26312ceb.chunk.js.map",
+    "main.js": "/imotel/static/js/main.d89a1c69.chunk.js",
+    "main.js.map": "/imotel/static/js/main.d89a1c69.chunk.js.map",
     "runtime-main.js": "/imotel/static/js/runtime-main.dd66ca0a.js",
     "runtime-main.js.map": "/imotel/static/js/runtime-main.dd66ca0a.js.map",
     "static/js/2.e2c93121.chunk.js": "/imotel/static/js/2.e2c93121.chunk.js",
     "static/js/2.e2c93121.chunk.js.map": "/imotel/static/js/2.e2c93121.chunk.js.map",
     "index.html": "/imotel/index.html",
-    "precache-manifest.a76c5cc99d8d9b70faac71c12ec15e01.js": "/imotel/precache-manifest.a76c5cc99d8d9b70faac71c12ec15e01.js",
+    "precache-manifest.d06d291cc944cc281d157bd9bab99c2a.js": "/imotel/precache-manifest.d06d291cc944cc281d157bd9bab99c2a.js",
     "service-worker.js": "/imotel/service-worker.js",
     "static/css/main.462b0bd9.chunk.css.map": "/imotel/static/css/main.462b0bd9.chunk.css.map",
     "static/js/2.e2c93121.chunk.js.LICENSE": "/imotel/static/js/2.e2c93121.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dd66ca0a.js",
     "static/js/2.e2c93121.chunk.js",
     "static/css/main.462b0bd9.chunk.css",
-    "static/js/main.26312ceb.chunk.js"
+    "static/js/main.d89a1c69.chunk.js"
   ]
 }
