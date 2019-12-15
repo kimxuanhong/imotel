@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23d6fe8611b3b7de8539e3aeef176c5d",
+    "revision": "f6296af8163d34b794df862fd14f452a",
     "url": "/imotel/index.html"
   },
   {
-    "revision": "a25dc5dcc0133f99e08a",
+    "revision": "d85a295d3033fd6a64e6",
     "url": "/imotel/static/css/main.462b0bd9.chunk.css"
   },
   {
-    "revision": "0f5243ba6dbfd0b5ded7",
-    "url": "/imotel/static/js/2.e2c93121.chunk.js"
+    "revision": "56b9efdaa29add40dc2b",
+    "url": "/imotel/static/js/2.8f71ad75.chunk.js"
   },
   {
     "revision": "5599c98b7af73b31fed6a721c4f935e7",
-    "url": "/imotel/static/js/2.e2c93121.chunk.js.LICENSE"
+    "url": "/imotel/static/js/2.8f71ad75.chunk.js.LICENSE"
   },
   {
-    "revision": "a25dc5dcc0133f99e08a",
-    "url": "/imotel/static/js/main.66b81e59.chunk.js"
+    "revision": "d85a295d3033fd6a64e6",
+    "url": "/imotel/static/js/main.bb955558.chunk.js"
   },
   {
     "revision": "073379b76ea43461cb89",

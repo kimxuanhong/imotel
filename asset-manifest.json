@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/imotel/static/css/main.462b0bd9.chunk.css",
-    "main.js": "/imotel/static/js/main.66b81e59.chunk.js",
-    "main.js.map": "/imotel/static/js/main.66b81e59.chunk.js.map",
+    "main.js": "/imotel/static/js/main.bb955558.chunk.js",
+    "main.js.map": "/imotel/static/js/main.bb955558.chunk.js.map",
     "runtime-main.js": "/imotel/static/js/runtime-main.dd66ca0a.js",
     "runtime-main.js.map": "/imotel/static/js/runtime-main.dd66ca0a.js.map",
-    "static/js/2.e2c93121.chunk.js": "/imotel/static/js/2.e2c93121.chunk.js",
-    "static/js/2.e2c93121.chunk.js.map": "/imotel/static/js/2.e2c93121.chunk.js.map",
+    "static/js/2.8f71ad75.chunk.js": "/imotel/static/js/2.8f71ad75.chunk.js",
+    "static/js/2.8f71ad75.chunk.js.map": "/imotel/static/js/2.8f71ad75.chunk.js.map",
     "index.html": "/imotel/index.html",
-    "precache-manifest.8a9e9e4891475e16e57978bf405d5746.js": "/imotel/precache-manifest.8a9e9e4891475e16e57978bf405d5746.js",
+    "precache-manifest.7fc072fc7a8ea72e1bcce75a2429ffb3.js": "/imotel/precache-manifest.7fc072fc7a8ea72e1bcce75a2429ffb3.js",
     "service-worker.js": "/imotel/service-worker.js",
     "static/css/main.462b0bd9.chunk.css.map": "/imotel/static/css/main.462b0bd9.chunk.css.map",
-    "static/js/2.e2c93121.chunk.js.LICENSE": "/imotel/static/js/2.e2c93121.chunk.js.LICENSE"
+    "static/js/2.8f71ad75.chunk.js.LICENSE": "/imotel/static/js/2.8f71ad75.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.dd66ca0a.js",
-    "static/js/2.e2c93121.chunk.js",
+    "static/js/2.8f71ad75.chunk.js",
     "static/css/main.462b0bd9.chunk.css",
-    "static/js/main.66b81e59.chunk.js"
+    "static/js/main.bb955558.chunk.js"
   ]
 }

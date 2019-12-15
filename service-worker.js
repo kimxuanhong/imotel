@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/imotel/precache-manifest.8a9e9e4891475e16e57978bf405d5746.js"
+  "/imotel/precache-manifest.7fc072fc7a8ea72e1bcce75a2429ffb3.js"
 );
 
 self.addEventListener('message', (event) => {
