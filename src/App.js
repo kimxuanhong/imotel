@@ -42,7 +42,7 @@ function Map() {
                   setSelectedPark(park);
                 }}
                 icon={{
-                  url: `/gps.png`
+                  url: `./gps.png`
                 }}
             />
         ))}
